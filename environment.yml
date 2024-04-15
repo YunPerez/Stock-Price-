@@ -1,0 +1,39 @@
+name: stockprice
+channels:
+  - pytorch
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - scikit-learn
+  - pandas
+  - numpy
+  - jupyterlab
+  - ipywidgets
+  - matplotlib
+  - seaborn
+  - autopep8
+  - joblib
+  - lxml
+  - scipy
+  - matplotlib
+  - tensorflow
+  - keras
+  - tensorflow
+  - scikit-learn
+  - pymongo
+  - arrow
+  - tqdm
+  - requests
+  - transformers
+  - pytorch
+  - nltk
+  - tqdm
+  - ipykernel
+  - transformers
+  - pip:
+    - joblib
+    - spacy
+    - torch
+    - textblob

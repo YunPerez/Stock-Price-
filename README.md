@@ -22,3 +22,9 @@ SECUNDARIAS
 - https://medium.com/@redeaddiscolll/advanced-machine-learning-and-deep-learning-techniques-for-stock-market-analysis-06e5b8c6b62c
 - https://www.alphavantage.co/documentation/#daily
 - https://github.com/RomelTorres/av_example/blob/master/Alpha%20vantage%20examples.ipynb
+
+
+Notas:
+
+Ocuparemos el modelo pre entrenado de FINBERT
+https://github.com/ProsusAI/finBERT

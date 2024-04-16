@@ -11,11 +11,12 @@ Nuestra investigación detalla el proceso técnico de este método integrado, de
 Con este estudio, aspiramos a fusionar los indicadores cuantitativos tradicionales de las acciones con los indicadores cualitativos de sentimiento, proporcionando una herramienta analítica más robusta para la predicción y análisis del mercado.
 
 Fuentes:
-- https://medium.com/@redeaddiscolll/integrating-sentiment-analysis-in-stock-price-forecasting-with-deep-learning-techniques-bb5f84fd59f6
+PRINCIPAL:
 - https://medium.com/analytics-vidhya/using-sentiment-analysis-to-predict-the-stock-market-77100295d753
+
+SECUNDARIAS
+- https://medium.com/@redeaddiscolll/integrating-sentiment-analysis-in-stock-price-forecasting-with-deep-learning-techniques-bb5f84fd59f6
 - https://medium.com/@chedy.smaoui/how-i-code-a-python-stock-screener-a-i-sentiment-analysis-to-pick-stocks-77059463f77a
 - https://medium.com/@redeaddiscolll/advanced-machine-learning-and-deep-learning-techniques-for-stock-market-analysis-06e5b8c6b62c
-
-
 - https://www.alphavantage.co/documentation/#daily
 - https://github.com/RomelTorres/av_example/blob/master/Alpha%20vantage%20examples.ipynb

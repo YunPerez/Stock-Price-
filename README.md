@@ -1,4 +1,19 @@
-# Stock Price Forecasting with Sentiment Analysis¶
+# Predicción de precios de acciones con analisis de sentimiento
+
+# (MCD ITAM Primavera 2024)
+
+## Autores 📚
+
+| Nombre                     |  CU    | Correo Electrónico | Usuario Github |
+|----------------------------|--------|--------------------|----------------|
+| Blanca E. García Manjarrez | 118886 | bgarci11@itam.mx   |    BGARCIAMA   |
+| Iván García Alba           | 214549 | rgarc199@itam.mx   |    GARCIA889   |
+| Valeria Durán Rubio        | 124273 | vduranru@itam.mx   |    VDR90       |
+| XXXX      | XXXX | XXXX@itam.mx   |    XXXX    |
+| XXXX      | XXXX | XXXX@itam.mx   |    XXXX    |
+| Yuneri Pérez Arellano      | 199813 | yperezar@itam.mx   |    YunPerez    |
+
+# Contexto  🧠
 
 En el ámbito cambiante de los mercados financieros, la predicción de precios de acciones representa un desafío significativo pero esencial para analistas e inversores. Los enfoques convencionales para predecir los mercados de acciones se han centrado en analizar datos financieros históricos, ignorando cómo el sentimiento público expresado en noticias, redes sociales y otros medios textuales podría impactar estos mercados.
 
@@ -10,7 +25,21 @@ Nuestra investigación detalla el proceso técnico de este método integrado, de
 
 Con este estudio, aspiramos a fusionar los indicadores cuantitativos tradicionales de las acciones con los indicadores cualitativos de sentimiento, proporcionando una herramienta analítica más robusta para la predicción y análisis del mercado.
 
-Fuentes:
+# Objetivo del proyecto  🎯
+Desarrollar un prototipo que integre el uso de un modelo predictivo en Python para estimar el precio de una acción utilizando información historica y análisis de sentimiento con Deep Learning
+
+# Base de datos  ✍
+* Información del mercado utilizando Alpha Vantage API
+* Tweets para el análisis de sentimiento
+
+# Infraestructura y Ejecución  ⚙
+
+## Requerimientos de Software herramientas recomendadas
+
+1. [Cuenta de Github](https://github.com)
+2. [VSCodeIDE](https://code.visualstudio.com/)
+
+## Fuentes
 
 PRINCIPAL
 - https://medium.com/@redeaddiscolll/integrating-sentiment-analysis-in-stock-price-forecasting-with-deep-learning-techniques-bb5f84fd59f6

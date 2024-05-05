@@ -15,7 +15,6 @@ dependencies:
   - seaborn
   - autopep8
   - joblib
-  - lxml
   - scipy
   - matplotlib
   - tensorflow

@@ -1,4 +1,4 @@
-# Predicción de precios de acciones con analisis de sentimiento
+# Pronóstico de precios de acciones con análisis de sentimiento
 
 # (MCD ITAM Primavera 2024)
 
